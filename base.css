@@ -24,8 +24,8 @@
 	display: block !important;
 	height: 145px !important;
 	width: 250px;
-	margin: 1.8% !important;
-	padding: 0 !important;
+	margin: 4% !important;
+	padding: 1 !important;
 	border-radius: 3px;
 	box-shadow: 0 0 12px rgba(0,0,0,0.25);
 	animation: friendGridFade .75s ease;
@@ -50,10 +50,10 @@ Username
 .friendsRow-2yicud .friendsColumnName-1zBOKm .discord-tag {
 	position: absolute;
 	display: block;
-	top: 50px;
+	top: 37px;
 	left: 75px;
     color: rgba(255,255,255,0.65);
-	font-size: 20px;
+	font-size: 13px;
 	overflow: visible;
 	transition: .15s ease color;
 }
@@ -94,7 +94,7 @@ User ID Number
     position: absolute;
     top: -19px;
     left: -26px;
-	height: 145px;
+	height: 133px;
 	width: 250px;
     z-index: -1;
     background: inherit;
@@ -155,7 +155,7 @@ User ID Number
 .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-mz5rqq {
     position: relative;
 	height: 18px !important;
-	width: 111% !important;
+	width: 250px !important;
 	top: -90px;
 	left: -46px;
 	margin-right: 0;
@@ -164,7 +164,7 @@ User ID Number
 
 .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 {
     position: relative;
-    top: -90px;
+    top: -85px;
 	left: -46px;
 	margin-right: 0px !important;
 	justify-content: flex-start;
